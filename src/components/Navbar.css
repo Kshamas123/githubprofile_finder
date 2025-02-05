@@ -1,0 +1,12 @@
+.NavHeader {
+    display: flex;
+    align-items: center; /* Align text vertically */
+    justify-content: center;
+    margin: auto;
+    background-color: #6A5ACD;
+    font-size: xx-large;
+    height: 60px; /* Slightly increased for better spacing */
+    padding: 10px;
+    font-weight: bold;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1); /* Adds a subtle shadow */
+}
