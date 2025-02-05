@@ -32,6 +32,9 @@ Open http://localhost:3000 in your browser.
 
 
 Usage
+
 Enter a GitHub username in the input field.
+
 Click the Search button.
+
 View user details such as avatar, name, bio, followers, repositories, and a link to their GitHub profile.
