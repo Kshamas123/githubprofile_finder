@@ -31,7 +31,7 @@ Installation & Setup
 Open http://localhost:3000 in your browser.
 
 
-Usage
+Usage:
 
 Enter a GitHub username in the input field.
 
