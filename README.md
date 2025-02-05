@@ -15,14 +15,17 @@ API: GitHub REST API
 
 Installation & Setup
 -Clone the Repository
+
             git clone https://github.com/yourusername/github-profile-finder.git
             
             cd github-profile-finder
 
 -Install Dependencies
+
            npm install
 
 -Start the Application
+
            npm start
 
 Open http://localhost:3000 in your browser.
